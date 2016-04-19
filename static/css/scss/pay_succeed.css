@@ -1,0 +1,49 @@
+@charset "UTF-8";
+* {
+  padding: 0;
+  margin: 0;
+  font-family: '微软雅黑';
+}
+
+.finishContent {
+  margin-top: 40%;
+  text-align: center;
+}
+.finishContent h2 {
+  padding: 15px 25px;
+  font-size: 16px;
+  font-weight: normal;
+}
+.finishContent h2 img {
+  margin-top: -3px;
+  vertical-align: middle;
+}
+.finishContent .finishMoney {
+  padding: 0 15px;
+  text-align: center;
+  color: #999;
+}
+.finishContent .finishMoney span {
+  color: #333;
+  font-size: 2em;
+  font-weight: bold;
+}
+.finishContent .finishMoney .submitBtn {
+  margin: auto;
+  margin-top: 20px;
+  display: block;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  background: #36C735;
+  border-radius: 3px;
+  color: #fff;
+}
+.finishContent .storeInfo {
+  position: fixed;
+  width: 100%;
+  bottom: 20px;
+  text-align: center;
+  font-size: 14px;
+  color: #8f8f94;
+}
